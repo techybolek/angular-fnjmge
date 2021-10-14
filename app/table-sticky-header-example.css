@@ -1,3 +1,5 @@
 table {
   width: 100%;
+  position: sticky;
+  top: 30px;
 }
